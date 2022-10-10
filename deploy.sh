@@ -6,6 +6,8 @@
 # Build the project.
 # on command prompt run 'npm run build'
 
+git status
+
 git add .
 printf "\033[0;32mCommit changes to source...\033[0m\n"
 
